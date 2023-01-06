@@ -1,0 +1,148 @@
+{
+  "name": "Oma Kuchen",
+  "ingredients": [
+    {
+      "name": "powder sugar",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "name": "flour",
+      "amount": 400,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "name": "egg",
+      "amount": 6,
+      "unit": ""
+    },
+    {
+      "name": "vanilla sugar",
+      "amount": 2,
+      "unit": "packet"
+    },
+    {
+      "name": "aroma",
+      "amount": 2,
+      "unit": "bottle"
+    },
+    {
+      "name": "milk",
+      "amount": 250,
+      "unit": "mL"
+    },
+    {
+      "name": "baking powder",
+      "amount": 1.5,
+      "unit": "packet"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "name": "spreading chocolate",
+      "amount": 1,
+      "unit": "packet"
+    }
+  ],
+  "instructions": [
+    {
+      "title": "Melt the butter",
+      "text": "Put butter in a large bowl, and repeatedly microwave it for 30 seconds until it becomes soft - not soup. ",
+      "ingredients": ["butter"]
+    },
+    {
+      "title": "Ready the tin",
+      "text": "Smear the cake tin with butter and add bread crumbs around the entire edge. ",
+      "ingredients": ["butter", "bread crumbs"]
+    },
+    {
+      "title": "Add sugar",
+      "text": "Add sugar to the butter bowl and start mixing, set the mixer to level 2. ",
+      "ingredients": ["powder sugar"]
+    },
+    {
+      "title": "Add egg whites to new bowl",
+      "text": "Crack the eggs in half, over the new bowl. Keep the egg yolk in one half of the eggshell. Move the egg yolk from shell to shell until the egg white has dripped out into the bowl. ",
+      "ingredients": ["egg"]
+    },
+    {
+      "title": "Add egg yolks to first bowl",
+      "text": "Add the egg yolk you kept in the shell to the first bowl and mix it with mixer. Repeat egg splitting process 6 times.",
+      "ingredients": ["egg"]
+    },
+    {
+      "title": "Add vanilla sugar, baking powder, and aroma",
+      "text": "Add vanilla sugar, baking powder, and aroma to the first bowl and mix it with mixer. ",
+      "ingredients": ["vanilla sugar", "baking powder", "aroma"]
+    },
+    {
+      "title": "Add flour and milk to first bowl",
+      "text": "Put 3 big spoons of flower and a bit of milk into the bowl, then mix. Repeat until all flour and milk is used up. ",
+      "ingredients": ["flour", "milk"]
+    },
+    {
+      "title": "Make snow with egg whites",
+      "text": "Add one tablespoon of water to the second bowl (with the egg white). Turn the mixer to the highest level, and mix until stiff peaks form. "
+    },
+    {
+      "title": "Add 4/5 snow to dough bowl",
+      "text": "Take 4/5 of the snow from the second bowl and add it to the first bowl. Start of by gently pushing the snow into the dough with the mixer, then mix it at the mixer's lowest level. "
+    },
+    {
+      "title": "Add dough to snow bowl",
+      "text": "Take 6 big spoons of dough and add them to the snow bowl. Mix the snow and dough together in the same way. "
+    },
+    {
+      "title": "Add cocoa powder to second bowl",
+      "text": "Add cocoa powder to the bowl with less dough. Mix the dough and cocoa powder together with the mixer. ",
+      "ingredients": ["cocoa powder"]
+    },
+    {
+      "title": "Spread 1/2 of white dough around cake tin",
+      "text": "Spread 1/2 of the dough from the first bowl to the cake tin, making an even layer around the bottom. "
+    },
+    {
+      "title": "Spread all of the chocolate dough around the cake tin",
+      "text": "Add all of the chocolate dough from the second bowl to the cake tin, making an even layer above the white dough. "
+    },
+    {
+      "title": "Spread the rest of the white dough around cake tin",
+      "text": "Spread the rest of the white dough on the cake tin, making an even layer above the dark dough. "
+    },
+    {
+      "title": "Bake",
+      "text": "Heat the oven to 175° C (347° F), and put the cake in for 40 mins. After that, check every 10 mins if the cake is done by poking with a toothpick. If the toothpick comes out clean, the cake is done."
+    },
+    {
+      "title": "Leave cake in the oven",
+      "text": "Turn off the oven and leave the cake in the oven for another 10 minutes while it cools down. "
+    },
+    {
+      "title": "Take the cake out",
+      "text": "Let the cake sit at room temperature until it is cool. "
+    },
+    {
+      "title": "Warm up spreading chocolate",
+      "text": "Put spreading chocolate packet into boiling water until it is melted. ",
+      "ingredients": ["spreading chocolate"]
+    },
+    {
+      "title": "Spread spreading chocolate onto cake",
+      "text": "Spread spreading chocolate on cake with a brush, spreading excess chocolate on the top. ",
+      "ingredients": ["spreading chocolate"]
+    }
+  ]
+}

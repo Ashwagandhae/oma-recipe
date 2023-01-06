@@ -1,0 +1,103 @@
+{
+  "name": "Rum Kugeln",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "name": "sugar",
+      "amount": 500,
+      "unit": "g"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": 1.5,
+      "unit": "tbsp"
+    },
+    {
+      "name": "sour cream",
+      "amount": 1.5,
+      "unit": "tbsp"
+    },
+    {
+      "name": "peeled and ground hazelnuts",
+      "amount": 125,
+      "unit": "g"
+    },
+    {
+      "name": "rum aroma",
+      "amount": 1,
+      "unit": ""
+    },
+    {
+      "name": "bitter almond aroma",
+      "amount": 1,
+      "unit": ""
+    },
+    {
+      "name": "ground chocolate",
+      "amount": 375,
+      "unit": "g"
+    },
+    {
+      "name": "mocca",
+      "amount": 3,
+      "unit": "tbsp"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": 1,
+      "unit": "bag"
+    }
+  ],
+  "instructions": [
+    {
+      "title": "Rub the chocolate",
+      "text": "Grind the chocolate into a rough powder",
+      "ingredients": ["ground chocolate"]
+    },
+    {
+      "title": "Melt the butter",
+      "text": "Put butter in a large bowl, and repeatedly microwave it for 30 seconds until it becomes soft - not soup. ",
+      "ingredients": ["butter"]
+    },
+    {
+      "title": "Add sugar and aroma",
+      "text": "Add the sugar and aroma into the bowl, then mix with mixer. ",
+      "ingredients": ["sugar", "rum aroma", "bitter almond aroma"]
+    },
+    {
+      "title": "Add sour cream",
+      "text": "Add the sour cream into the bowl, then mix with mixer. ",
+      "ingredients": ["sour cream"]
+    },
+    {
+      "title": "Add the mocca and cocoa powder",
+      "text": "Add the mocca and cocoa powder into the bowl, then mix with mixer. ",
+      "ingredients": ["mocca", "cocoa powder"]
+    },
+    {
+      "title": "Cool down",
+      "text": "Put the bowl into the fridge for 2 hours. "
+    },
+    {
+      "title": "Knead the dough, splitting it into 3 pieces",
+      "text": "Knead the dough by taking pieces of it, kneading them, and putting the pieces back into the bowl. Split the dough into 3 roughly equal balls. "
+    },
+    {
+      "title": "Ready the plätzchen-making area",
+      "text": "Get a big bowl to store the finished plätzchen. Get a small plate and spread the coconut flakes on it. ",
+      "ingredients": ["coconut flakes"]
+    },
+    {
+      "title": "Make the plätzchen",
+      "text": "Use a teaspoon to scoop out balls of dough. Roll the balls into spheres. Roll the spheres into the coconut flakes to coat them. Put the plätzchen in the bowl. "
+    },
+    {
+      "title": "Cool down",
+      "text": "Put the bowl into the fridge for 2 hours. "
+    }
+  ]
+}
