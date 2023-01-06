@@ -2,13 +2,11 @@
 # abort on errors
 set -e
 # build
-yarn run build
-# navigate into the build output directory
-cd dist
-# if you are deploying to a custom domain
-# echo 'www.example.com' > CNAME
-git init
-git add -A
-git commit -m 'deploy'
-git push -f git@github.com:Ashwagandhae/oma-recipe.git main:gh-pages
-cd -
+git checkout --orphan gh-pages
+npm run build
+git --work-tree dist add --all
+git --work-tree dist commit -m 'deploy'
+git push origin HEAD:gh-pages --force
+rm -r dist
+git checkout -f main
+git branch -D gh-pages
