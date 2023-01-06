@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "deploy": "sh deploy.sh",
     "dev": "vite",
     "build": "run-p type-check build-only",
     "preview": "vite preview",
@@ -15,6 +16,7 @@
     "vue-router": "^4.1.6"
   },
   "devDependencies": {
+    "execa": "^6.1.0",
     "@playwright/test": "^1.28.1",
     "@types/node": "^18.11.12",
     "@vitejs/plugin-vue": "^4.0.0",
