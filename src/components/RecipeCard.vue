@@ -12,7 +12,10 @@
 export default {
   name: 'RecipeCards',
   props: {
-    recipeCard: Object,
+    recipeCard: {
+      type: Object,
+      required: true,
+    },
   },
 };
 </script>
