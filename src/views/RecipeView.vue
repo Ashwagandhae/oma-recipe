@@ -141,7 +141,8 @@ header.collapse > h2 {
 }
 .progress {
   height: 5px;
-  top: calc(40px + 1rem);
+  top: calc(4rem - 5px);
+
   position: fixed;
   width: 100%;
   background-color: var(--background-three);

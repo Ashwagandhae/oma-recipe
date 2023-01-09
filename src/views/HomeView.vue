@@ -42,9 +42,10 @@ export default {
           },
         },
         {
-          name: 'Something else',
+          name: 'Apfel Pfannkuchen',
+          text: 'A pancake with sliced apples',
           link: {
-            name: 'omaKuchen',
+            name: 'apfelPfannkuchen',
           },
         },
         {

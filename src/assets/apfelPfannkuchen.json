@@ -1,0 +1,63 @@
+{
+  "name": "Apfel Pfannkuchen",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": 375,
+      "unit": "g"
+    },
+    {
+      "name": "egg",
+      "amount": 4,
+      "unit": ""
+    },
+    {
+      "name": "vanilla sugar",
+      "amount": 2,
+      "unit": "packets"
+    },
+    {
+      "name": "peeled and sliced apples",
+      "amount": 750,
+      "unit": "g",
+      "note": "cut into small pieces"
+    },
+    {
+      "name": "milk",
+      "amount": 0.5,
+      "unit": "liter"
+    },
+    {
+      "name": "butter",
+      "amount": 5,
+      "unit": "tbsp"
+    }
+  ],
+  "instructions": [
+    {
+      "title": "Mix eggs and vanilla",
+      "text": "Mix the eggs with the vanilla sugar in a large bowl",
+      "ingredients": ["egg", "vanilla sugar"]
+    },
+    {
+      "title": "Add flour and milk",
+      "text": "Slowly add 375 grams of flour to the egg mixture, mixing with small amounts of milk. Repeat until all the flour and milk is used.",
+      "ingredients": ["flour", "milk"]
+    },
+    {
+      "title": "Refrigerate",
+      "text": "Refrigerate the mixture for 3-4 hours.",
+      "ingredients": []
+    },
+    {
+      "title": "Cook the pancakes",
+      "text": "Melt butter in a pan. Drop a spoonful of the mixture onto the pan. Cook the pancake, flipping it once. Repeat steps until all the mixture is used.",
+      "ingredients": ["butter"]
+    },
+    {
+      "title": "Serve",
+      "text": "Serve the pancakes with powdered sugar or vanilla sauce on top.",
+      "ingredients": []
+    }
+  ]
+}
